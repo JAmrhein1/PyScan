@@ -47,4 +47,13 @@ After the scan, you have the option to scan another network.
 
 ## License
 MIT License
+
+## Contributing
+Feel free to contribute, I am a 3rd year computer science student who is trying to get more projects on my resume. This code might not be the most clean or well formated but it works for me and it was a fun project to do regardless.
+
+## Contact
+For any suggestions, please open an issue on this repository
+
+## Notes
+Yes, I do understand that python isn't known to be a fast language is is quite slow in comparison to other languages but, python is the language I'm most comfortable in.
    
